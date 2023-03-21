@@ -18,5 +18,6 @@
     },
     "autoload": {
         "psr-4": {"Zofe\\Burp\\": "src/"}
-    }
+    },
+    "minimum-stability": "dev"
 }
